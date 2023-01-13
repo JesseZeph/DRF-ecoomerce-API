@@ -170,7 +170,7 @@ curl -XPOST -H "Content-type: application/json" -d '{"name": "Bobby Stearman", "
 ```
 
 ```
-http post http://api:8000/contact/ name='Bobby Stearman' message='This is a test' email=bobby@didcoding.com
+http post http://api:8000/contact/ name='Josiah Jesse' message='This is a test' email=bobby@didcoding.com
 ```
 
 
