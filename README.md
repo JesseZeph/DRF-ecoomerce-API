@@ -28,21 +28,25 @@ First you will need to clone down the first module.
 
 ```
 #option 1 - SSH
-git clone --module_1 basics git@github.com:bobby-didcoding/drf_course.git .
+git clone --module_1 basics git@github.com:jesseZeph/DRF-ecoomerce-API
+Public
+Django.git .
 
 #option 2 - Github CLI
-gh repo clone bobby-didcoding/drf_course .
+gh repo clone bobby-didcoding/DRF-ecoomerce-API
+Public
+Django .
 git checkout module_1
 
 #option 3 - HTTPS
-git clone --branch module_1 https://github.com/bobby-didcoding/drf_course.git .
+git clone --branch module_1 https://github.com/bobby-didcoding/DRF-ecoomerce-API
+Public
+Django.git .
 ```
 
 ***
 ***
 
-## Following along
-Each module has a walk through video. All videos can be found in my (Django Rest Framework Course)[https://www.youtube.com/playlist?list=PL5VlxT4gkOFAD2wpucxHY3X2sCzhha5Kz] playlist.
 
 Please open /steps/module_1 to begin.
 ***
